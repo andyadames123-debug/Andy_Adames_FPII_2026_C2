@@ -38,9 +38,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs",
               "RelativeDocumentMoniker": "Tarea 2.1\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs",
-              "RelativeToolTip": "Tarea 2.1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs*",
+              "RelativeToolTip": "Tarea 2.1\\Form1.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAewDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-29T13:57:23.336Z",
               "IsPinned": true,
@@ -56,8 +56,8 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs",
               "RelativeDocumentMoniker": "Tarea 2.1\\Form1.cs",
-              "ToolTip": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Tarea 2.1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\USUARIO1\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Escritorio\\Repositorio de FPI\\Tarea 3\\Server\\Tarea 2.1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Tarea 2.1\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T02:29:09.334Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -84,8 +84,7 @@
               "RelativeToolTip": "Cliente de Loteria\\Form1.Designer.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T16:00:23.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-12T16:00:23.543Z"
             },
             {
               "$type": "Document",

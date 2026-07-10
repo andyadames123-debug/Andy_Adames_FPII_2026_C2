@@ -19,7 +19,7 @@ namespace Tarea_2._1
     public partial class LoteTech : Form
     {
         private IMqttClient mqttClient;
-
+        private Random rnd = new Random();
         public LoteTech()
         {
             InitializeComponent();
@@ -106,6 +106,13 @@ namespace Tarea_2._1
             {
                 MessageBox.Show("Error al procesar o publicar: " + ex.Message);
             }
+        }
+
+        private void btnGenerar_Click(object sender, EventArgs e)
+        {
+            textPrimera.Text = rnd.Next(1, 100).ToString();
+            textSegunda.Text = rnd.Next(1, 100).ToString();
+            textTercera.Text = rnd.Next(1, 100).ToString();
         }
     }
 }

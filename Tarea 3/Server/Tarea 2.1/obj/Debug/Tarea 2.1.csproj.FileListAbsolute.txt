@@ -34,3 +34,17 @@ C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escr
 C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Tarea 2.1\obj\Debug\Tarea 2.1.pdb
 C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Tarea 2.1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Tarea 2.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\Tarea 2.1.exe.config
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\Tarea 2.1.exe
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\Tarea 2.1.pdb
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\MQTTnet.dll
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.csproj.AssemblyReference.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea_2._1.LoteTech.resources
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea_2._1.Properties.Resources.resources
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.csproj.GenerateResource.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.csproj.Up2Date
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.exe
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 3\Server\Tarea 2.1\obj\Debug\Tarea 2.1.pdb

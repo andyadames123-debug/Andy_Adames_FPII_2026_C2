@@ -40,6 +40,7 @@ namespace Tarea_2._1
             this.buttonPublicar = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.labelGanador = new System.Windows.Forms.Label();
+            this.btnGenerar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textSegunda
@@ -65,7 +66,7 @@ namespace Tarea_2._1
             // 
             // buttonPublicar
             // 
-            this.buttonPublicar.Location = new System.Drawing.Point(147, 237);
+            this.buttonPublicar.Location = new System.Drawing.Point(164, 291);
             this.buttonPublicar.Name = "buttonPublicar";
             this.buttonPublicar.Size = new System.Drawing.Size(75, 23);
             this.buttonPublicar.TabIndex = 14;
@@ -76,7 +77,7 @@ namespace Tarea_2._1
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(144, 142);
+            this.label5.Location = new System.Drawing.Point(148, 142);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(95, 13);
             this.label5.TabIndex = 15;
@@ -90,11 +91,22 @@ namespace Tarea_2._1
             this.labelGanador.Size = new System.Drawing.Size(0, 13);
             this.labelGanador.TabIndex = 22;
             // 
+            // btnGenerar
+            // 
+            this.btnGenerar.Location = new System.Drawing.Point(164, 235);
+            this.btnGenerar.Name = "btnGenerar";
+            this.btnGenerar.Size = new System.Drawing.Size(75, 23);
+            this.btnGenerar.TabIndex = 23;
+            this.btnGenerar.Text = "Generar";
+            this.btnGenerar.UseVisualStyleBackColor = true;
+            this.btnGenerar.Click += new System.EventHandler(this.btnGenerar_Click);
+            // 
             // LoteTech
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(440, 468);
+            this.Controls.Add(this.btnGenerar);
             this.Controls.Add(this.labelGanador);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.buttonPublicar);
@@ -103,7 +115,7 @@ namespace Tarea_2._1
             this.Controls.Add(this.textSegunda);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "LoteTech";
-            this.Text = "LoteTech_Server";
+            this.Text = "aa";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -116,6 +128,7 @@ namespace Tarea_2._1
         private System.Windows.Forms.Button buttonPublicar;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label labelGanador;
+        private Button btnGenerar;
     }
 }
 
