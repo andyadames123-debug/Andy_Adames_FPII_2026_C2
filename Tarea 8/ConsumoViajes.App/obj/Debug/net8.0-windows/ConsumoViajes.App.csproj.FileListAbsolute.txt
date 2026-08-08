@@ -1,0 +1,15 @@
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\bin\Debug\net8.0-windows\ConsumoViajes.App.exe
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\bin\Debug\net8.0-windows\ConsumoViajes.App.deps.json
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\bin\Debug\net8.0-windows\ConsumoViajes.App.runtimeconfig.json
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\bin\Debug\net8.0-windows\ConsumoViajes.App.dll
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\bin\Debug\net8.0-windows\ConsumoViajes.App.pdb
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.AssemblyInfoInputs.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.AssemblyInfo.cs
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.sourcelink.json
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.dll
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\refint\ConsumoViajes.App.dll
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.pdb
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ConsumoViajes.App.genruntimeconfig.cache
+C:\Users\USUARIO1\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\Repositorio de FPI\Tarea 8\ConsumoViajes.App\obj\Debug\net8.0-windows\ref\ConsumoViajes.App.dll
