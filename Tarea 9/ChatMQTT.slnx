@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Chat.Mobile/Chat.Mobile.csproj" />
+  <Project Path="Chat.PC/Chat.PC.csproj" />
+</Solution>

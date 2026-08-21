@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Chat.Mobile.MainPage"
+             Title="Chat MQTT">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+
+        <Label Text="Chat MQTT (broker.hivemq.com)"
+               FontSize="22"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+
+        <Button x:Name="BtnConectar"
+                Text="Conectar"
+                Clicked="OnConectarClicked" />
+
+        <Label x:Name="LblEstado"
+               Text="Desconectado"
+               TextColor="Red"
+               HorizontalOptions="Center" />
+
+        <Grid ColumnDefinitions="*,Auto" ColumnSpacing="8">
+            <Entry x:Name="EntradaMensaje"
+                   Placeholder="Escriba un mensaje..."
+                   Grid.Column="0" />
+            <Button x:Name="BtnEnviar"
+                    Text="Enviar"
+                    IsEnabled="False"
+                    Clicked="OnEnviarClicked"
+                    Grid.Column="1" />
+        </Grid>
+
+        <Label Text="Historial de chat:" />
+
+        <Editor x:Name="EditorChat"
+                IsReadOnly="True"
+                HeightRequest="400" />
+
+    </VerticalStackLayout>
+
+</ContentPage>
